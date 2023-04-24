@@ -82,26 +82,15 @@ p{
     #logo-box{
         padding-top: 5rem;
     }
-/* 
-    #title {
-        background-image: url("img_stf2.png");
-        background-size: cover;
-        
-    } */
 
-    .sub-title{
-        font-size: 20px;
+     #sub-title1, #sub-title2, #sub-title3, #sub-title4{
+        font-size: 3em;
     }
-    
-    .whats{
-     bottom: 1em;
-     right: 0.5em;
+
+    #nome_logotipo{
+     font-size: 3em;
     }
 }
-
-/* .logo{
-    padding-left: 2%;
-} */
 
 /* Carousel */
 
