@@ -92,6 +92,11 @@ p{
     .sub-title{
         font-size: 20px;
     }
+    
+    .whats{
+     bottom: 1em;
+     right: 0.5em;
+    }
 }
 
 /* .logo{
